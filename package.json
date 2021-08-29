@@ -1,6 +1,6 @@
 {
-  "homepage": "http://jdhushenthen.github.io/elevator-simulation",
-  "name": "demo",
+  "homepage": "http://jdhushenthen.github.io/elevator-simulation-demo",
+  "name": "elevator-simulation-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
