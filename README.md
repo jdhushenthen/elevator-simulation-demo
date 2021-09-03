@@ -4,4 +4,4 @@ Synchronized 3 processes and 5 threads to simulate 2 elevators transporting pass
 
 The project can be viewed [here](http://jdhushenthen.github.io/elevator-simulation-demo).
 
-This is a React webpage with an embedded video.
+This is an embedded video in a React webpage deployed on GitHub Pages.
